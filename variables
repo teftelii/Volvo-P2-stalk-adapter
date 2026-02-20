@@ -1,3 +1,5 @@
+STM32F103C8T6
+
 # VOLVO can bus messages 
 0x3F - nothing
 0x37 - VOL + 
